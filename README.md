@@ -15,6 +15,7 @@ So, I decided to re-develop with advanced features like subject credit and mark 
 #### Demo of Old Version
 
 Now you can show demo of old version that developed as temporary urgently for only 3rd semester, department of Computer Science, Dhaka Polytechnic Institute.
-Download Links:
-Compiled Version: old.accde - [`Download Now`](/old.accde)
-Source: old_source.accdb - [`Download Now`](/old_source.accdb)
+
+Download Links: \
+Compiled Version: old.accde - [`Download Now`](/old.accde "download") \
+Source: old_source.accdb - [`Download Now`](/old_source.accdb "download")
